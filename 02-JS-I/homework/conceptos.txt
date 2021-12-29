@@ -1,0 +1,31 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+
+Variables: Una variable es un contenedor en el cual se guarda informacion para utilizar mas adelante, las variables se dividen en tres.
+
+var: esta es una forma de declarar una variable, pero se puede reasiganar un valor, la plabra var es un abrebiado
+de variable.
+
+let: El let cumple una funcion similar a var pero esta cuenta con un comportamiento diferente a la anterior
+
+const: por ultimo const tambien  pero acomparacion de las anteriores esta no puede ser modificable.
+
+Strings: las Strings son cadenas de texto que siempre van entre comillas.
+
+Funciones: son partes del codigo en las que se da instrucciones para realizar una accion. los argamunetos son los parametros que la funcion
+necesita para llevarse acabo, el return es lo que la funcion devuelve.
+
+Declaraciones if: Es una condicion, if se traduce como la palabra "si" 
+if cumple la funcion de comparar, si x es igual a y, y es igual a x. entonces seria
+if (x === y)
+(y === x)
+
+Valores booleanos: los booleanos son tipos de datos que vienen del codigo binario que serian 0 y 1 en javascript se usa como false y true
+ respecteviamente.
+
